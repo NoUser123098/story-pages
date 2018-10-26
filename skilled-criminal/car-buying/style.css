@@ -1,1 +1,8 @@
-
+body {
+  font-family: sans-serif;
+}
+.buy {
+  text-align: center;
+  padding: 70px 0;
+  border: 1px solid black;
+}
